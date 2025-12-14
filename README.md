@@ -1,4 +1,4 @@
-# Smart Adaptive Traffic Management System
+# Smart Traffic Management System using Object Detection
 
 An intelligent traffic management system that uses computer vision and adaptive algorithms to optimize traffic signal timing based on real-time vehicle detection.
 
