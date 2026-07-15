@@ -15,3 +15,6 @@ numpy>=1.19.0
 # pytest>=6.0.0  # For testing
 # black>=21.0.0  # For code formatting
 # pylint>=2.0.0  # For code linting
+
+
+# Mandatory files for the program to work
